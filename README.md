@@ -1,4 +1,4 @@
-[![Lucas Rinaldi GitHub Banner](./assets/header.png)](https://lucasreinaldi.com.br)
+[![Lucas Rinaldi GitHub Banner](./assets/header.jpg)](https://lucasreinaldi.com.br)
 
 [![Visits Badge](https://badges.pufler.dev/visits/rinaldilucas/rinaldilucas)](https://lucasreinaldi.com.br)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rinaldilucas/)
@@ -111,7 +111,7 @@ Want to know more about me? [Check out my website.](https://lucasreinaldi.com.br
 
 <br>
 
-## Contact
+## ✉️ Contact
 
 [![Website](https://img.shields.io/badge/-Website-0078D4?style=flat-square&logo=html5&logoColor=white&link=https://rinaldilucas.com)](https://rinaldilucas.com)
 [![Github](https://img.shields.io/badge/-Github-967bb5?style=flat-square&labelColor=967bb5&logo=github&logoColor=white&link=https://github.com/rinaldilucas
