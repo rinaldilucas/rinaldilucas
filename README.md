@@ -1,6 +1,6 @@
 [![Lucas Rinaldi GitHub Banner](./assets/header.jpg)](https://lucasreinaldi.com.br)
 
-[![Visits Badge](https://badges.pufler.dev/visits/rinaldilucas/rinaldilucas)](https://lucasreinaldi.com.br)
+[![Visits Badge](https://badges.pufler.dev/visits/rinaldilucas/rinaldilucas)](https://rinaldilucas.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rinaldilucas/)
 
 <br>
@@ -10,7 +10,7 @@ Hey there 👋
 
 I'm Lucas, a frontend and full stack developer, creative coder, music lover, pixel art addict and self-taught designer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my website.](https://lucasreinaldi.com.br)
+Want to know more about me? [Check out my website.](https://rinaldilucas.com)
 
 <br>
 
