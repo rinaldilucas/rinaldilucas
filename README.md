@@ -1,6 +1,6 @@
 [![Lucas Rinaldi GitHub Banner](./assets/header.jpg)](https://lucasreinaldi.com.br)
 
-[![Visits Badge](https://badges.pufler.dev/visits/rinaldilucas/rinaldilucas)](https://rinaldilucas.com)
+[![Visits Badge](https://img.shields.io/badge/-Website-blue)](https://rinaldilucas.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rinaldilucas/)
 
 <br>
