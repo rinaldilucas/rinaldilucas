@@ -8,9 +8,10 @@
 <img align="right" width="150"  src="https://media1.giphy.com/media/jaHx2CoUG7L8y3SDn9/giphy.gif?cid=ecf05e47d137f7339c00f8e1b7afaa1f8ed8d958b4d0aa6e&rid=giphy.gif">
 Hey there 👋
 
-I'm Lucas, a frontend and full stack developer, creative coder, music lover, pixel art addict and self-taught designer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I'm Lucas, Full Stack Developer.
+Hope some of my repositories help you folks! o/
 
-Want to know more about me? [Check out my website.](https://rinaldilucas.com)
+[Personal portfolio.](https://rinaldilucas.com)
 
 <br>
 
