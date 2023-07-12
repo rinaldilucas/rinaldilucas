@@ -10,8 +10,6 @@ Hey there 👋<br>
 I'm Lucas, Full Stack Developer.<br>
 Hope some of my repositories help you folks! o/<br><br>
 
-[Visit personal portfolio](https://rinaldilucas.com)
-
 <br>
 
 ## 📌 Pinned Repositories
