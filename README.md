@@ -6,12 +6,11 @@
 <br>
 
 <img align="right" width="150"  src="https://media1.giphy.com/media/jaHx2CoUG7L8y3SDn9/giphy.gif?cid=ecf05e47d137f7339c00f8e1b7afaa1f8ed8d958b4d0aa6e&rid=giphy.gif">
-Hey there 👋
+Hey there 👋<br>
+I'm Lucas, Full Stack Developer.<br>
+Hope some of my repositories help you folks! o/<br><br>
 
-I'm Lucas, Full Stack Developer.
-Hope some of my repositories help you folks! o/
-
-[Personal portfolio.](https://rinaldilucas.com)
+[Visit personal portfolio](https://rinaldilucas.com)
 
 <br>
 
