@@ -14,6 +14,13 @@ Hope some of my repositories help you folks! o/<br><br>
 
 ## 📌 Pinned Repositories
 
+<a href="https://github.com/rinaldilucas/laravel-school-api">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rinaldilucas&repo=laravel-school-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
 <a href="https://github.com/rinaldilucas/mean-stack-template">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rinaldilucas&repo=mean-stack-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
