@@ -14,6 +14,8 @@ Hope some of my repositories help you folks! o/<br><br>
 
 ## 📌 Pinned Repositories
 
+<br>
+
 <a href="https://github.com/rinaldilucas/laravel-school-api">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rinaldilucas&repo=laravel-school-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -113,6 +115,7 @@ Hope some of my repositories help you folks! o/<br><br>
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
 ![Microsoft .NET](https://img.shields.io/badge/-Microsoft%20.NET-%23F7DF1C?style=flat-square&logo=.net&logoColor=ffffff&labelColor=2962ff&color=2962ff&textColor=000000)
+![Laravel](https://img.shields.io/badge/Laravel-%23F7DF1C?style=flat-square&logo=laravel&logoColor=ffffff&labelColor=f05340&color=f05340&textColor=000000)
 
 #### Databases
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
@@ -123,8 +126,7 @@ Hope some of my repositories help you folks! o/<br><br>
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Azure Devops](https://img.shields.io/badge/-Azure%20Devops%20-%23F7DF1C?style=flat-square&logo=azuredevops&logoColor=ffffff&labelColor=0078d4&color=0078d4&textColor=000000
-)
+![Azure Devops](https://img.shields.io/badge/-Azure%20Devops%20-%23F7DF1C?style=flat-square&logo=azuredevops&logoColor=ffffff&labelColor=0078d4&color=0078d4&textColor=000000)
 
 <br>
 
@@ -141,7 +143,7 @@ Hope some of my repositories help you folks! o/<br><br>
 ## ☕ Donations
 
 If you feel that this repository helped you in any way, feel free to buy me a coffee!
-It helps me a lot to continue developing open source codes.
+It helps me a lot to continue developing open-source codes.
 
 -   Metamask (USDT):
   
