@@ -23,8 +23,8 @@ Hope some of my repositories help you folks! o/<br><br>
 <br>
 <br>
 
-<a href="https://github.com/rinaldilucas/mean-stack-template">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rinaldilucas&repo=mean-stack-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/rinaldilucas/mean-task-manager">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rinaldilucas&repo=mean-task-manager&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -139,6 +139,7 @@ Hope some of my repositories help you folks! o/<br><br>
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:lucasreinaldi@hotmail.com)](mailto:lucasreinaldi@hotmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rinaldilucas/)](https://www.linkedin.com/in/rinaldilucas/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/rinaldilucas)](https://t.me/rinaldilucas)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1dd05d?style=flat-square&labelColor=1dd05d&logo=spotify&logoColor=white&link=https://open.spotify.com/artist/7CeTc1x4i9kiCDJyG3DGrV)](https://open.spotify.com/artist/7CeTc1x4i9kiCDJyG3DGrV)
 
 ## ☕ Donations
 
