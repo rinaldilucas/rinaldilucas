@@ -31,6 +31,10 @@ Every stage of my career has been an enriching learning experience, presenting f
 - **Innovation**: Exploring new technologies, Gadgets, Crypto, Future trends
 - **Hobbies**: Learning new stuff, Music Engineering, Gaming, Manga
 
+<br>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=rinaldilucas&show_icons=true&theme=radical)
+
 #### 🌍 &nbsp;Get in Touch
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasreinaldi@gmail.com)](mailto:lucasreinaldi@gmail.com)
