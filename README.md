@@ -6,7 +6,7 @@
   
   - 🖥️ Shaped by tibia .lua scripts, powered by modern frameworks
   - 🎓 (2014-2017) Degree in System Analysis and Development - UTFPR
-  - 👨‍💻 I'm a Full Stack Sr
+  - 👨‍💻 I'm a Senior Full Stack Developer
   - 🔧 I’m currently in love with Angular and front-end complex solutions
   - 🤓 Ask me about Ableton, Dota, Dark Souls and Berserk
   - 🌐 Visit my website <a target="_blank" href="https://www.rinaldilucas.com">here</a>
